@@ -8,12 +8,12 @@ Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP.
 
 ## Preview
 
-https://gatsby-dimension.surge.sh/
+https://hardcore-mclean-ed7eb4.netlify.com/
 
 ## Installation
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 <br/>
-`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
+`gatsby new gatsby-starter-dimension https://github.com/sharp0111/gatsby-starter-dimension.git`
 
 Run `gatsby develop` in the terminal to start the dev site.
